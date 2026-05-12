@@ -170,6 +170,7 @@ Sure! Let me redo this using the exact wording from your slides, with simple exp
 > - **SRAM** = fast and small, used for caches — and you can tune it to be faster by making it smaller
 > - The whole point of the hierarchy is to **bridge the speed gap** between the fast CPU and the slow DRAM
 
+SRAM (Static RAM) and DRAM (Dynamic RAM) are both volatile memory types, but SRAM is faster, more expensive, and uses transistors to store data without needing a refresh. DRAM is slower, cheaper, and uses capacitors that require regular refreshing, making it ideal for high-capacity system memory while SRAM acts as fast cache memory.
 ---
 
 ### 10. Quick Exam Tips
